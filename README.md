@@ -7,3 +7,8 @@
 - [2020/01 ~ 2021/03] [Probest Soft Limited](https://probestsoft.kr) - Software Engineer / 프론트엔드 (HTML5, CSS, JS) / 백엔드 (PHP, Node.js) / 인프라 (AWS, Network, Firewall) 
 - [2017/10 ~ 2019/12] cloud/square - Service Team Leader / 프론트엔드 (HTML5, CSS, JS) / 벡엔드 (Laravel, Node.js) / 인프라 (vSphere, Xen, KVM, Network, Firewall) / 영업
 - [2014/12 ~ 2017/09] CubeSoft DevLab - 프론트엔드 (HTML5, CSS, JS) / 백엔드 (PHP) / Windows Application (.NET) / Android Application (Java) / Scripts (Lua, Python)
+
+### 연락처
+- Mail: minjun@kaaang.dev / minjun@khu.ac.kr
+- Telegram: kaaang_dev
+- Kakaotalk: minjunkaaang
