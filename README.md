@@ -9,6 +9,6 @@
 - [2014/12 ~ 2017/09] CubeSoft DevLab - 프론트엔드 (HTML5, CSS, JS) / 백엔드 (PHP) / Windows Application (.NET) / Android Application (Java) / Scripts (Lua, Python)
 
 ### 연락처
-- Mail: minjun@kaaang.dev / minjun@khu.ac.kr
-- Telegram: kaaang_dev
-- Kakaotalk: minjunkaaang
+- Mail: [minjun@kaaang.dev](mailto:minjun@kaaang.dev) / [minjun@khu.ac.kr](mailto:minjun@khu.ac.kr)
+- Telegram: [@kaaang_dev](https://t.me/kaaang_dev)
+- Kakaotalk: [minjunkaaang](http://qr.kakao.com/talk/UPsHdV0uCa2SmximzcqnAEEr1KM-)
