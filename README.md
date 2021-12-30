@@ -8,6 +8,10 @@
 - [2017/10 ~ 2019/12] cloud/square - Service Team Leader / 프론트엔드 (HTML5, CSS, JS) / 벡엔드 (Laravel, Node.js) / 인프라 (vSphere, Xen, KVM, Network, Firewall) / 영업
 - [2014/12 ~ 2017/09] CubeSoft DevLab - 프론트엔드 (HTML5, CSS, JS) / 백엔드 (PHP) / Windows Application (.NET) / Android Application (Java) / Scripts (Lua, Python)
 
+### 운영 중인 서비스
+- [cloud/square](https://cloudsquare.kr) : On-demand Baremetal 호스팅 서비스 & 가상서버 솔루션 통합 제공 서비스
+- [CLSU](https://clsu.kr) : Multi-provider Cloud 통합 관리 서비스
+
 ### 연락처
 - Mail: [minjun@kaaang.dev](mailto:minjun@kaaang.dev) / [minjun@khu.ac.kr](mailto:minjun@khu.ac.kr)
 - Telegram: [@kaaang_dev](https://t.me/kaaang_dev)
