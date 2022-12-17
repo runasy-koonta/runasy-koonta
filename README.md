@@ -4,7 +4,6 @@
 ### 저는요...
 2002년생 Full Stack Engineer를 꿈꾸는 개발자입니다.
 
-- [2021/06 ~ 현재] SIAsoft - Software Engineer
 - [2021/03 ~ 현재] cloud/square
 - [2021 ~ 현재] 경희대학교 컴퓨터공학과
 - [2021/04 ~ 2021/02] [DOMINATE](https://dominate.co.kr) - Software Engineer / 프론트엔드 (React/HTML5, CSS, JS) / 백엔드 (Node.js) / 인프라 (AWS)
